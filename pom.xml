@@ -8,7 +8,7 @@
 		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.github.bottomhalf</groupId>
+	<groupId>io.github.Istiyakmi9</groupId>
 	<artifactId>ems_dbUtility</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ems_dbUtility</name>
